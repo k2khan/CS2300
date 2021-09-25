@@ -1,0 +1,7 @@
+1./ Everything was pretty thorough. I liked the ability to see the class diagram, the live demo, and they were able to answer questions about the game. The game idea was also pretty cool and different. 
+
+
+2./ When you give an incorrect anagram, it could state that the word was indeed incorrect. (Currently, it doesn't state that the word entered was incorrect.
+
+
+3./ Could have stated in the slides that the objective is to maximize the amount of points you have given a certain amount of time.

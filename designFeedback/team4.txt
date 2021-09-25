@@ -1,0 +1,5 @@
+1./ Showed uml diagram and a picture of the gui. 
+
+2./ Again, I don't know much about card games, so I don't really know what to critique.
+
+3./ Did a live demo, and showed the uml diagrams, but did not show the use cases I think.

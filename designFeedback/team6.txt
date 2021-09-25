@@ -1,0 +1,5 @@
+1./ I like how the presenter gave good overview of the memory game. Gave the rules and how the scoring is done. 
+
+2./ I think the uml diagram was missing a Driver class, however i'm not sure if it was needed.
+
+3./ I really liked the presentation, didn't really have any critiques.

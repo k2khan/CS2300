@@ -1,0 +1,7 @@
+1./ 2
+2a./ 1, didn't have the model view controller uml diagram
+2b./ 1, I didn't see them show us use cases at all...
+2c./ 2
+3./ 2
+4./ 2
+5./ 2

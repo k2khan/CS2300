@@ -1,0 +1,5 @@
+1./ The design was go fish. I think the idea is cool, and I wish I could see the gui version of this game.
+
+2./ I'm not sure what could be improved in the design.
+
+3./ I feel like the presentation was kind of rushed, and maybe it was just because they had to develop a terminal version of the game even though it was supposed to be a gui based game.

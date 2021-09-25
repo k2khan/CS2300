@@ -1,0 +1,16 @@
+khan@k:/mnt/c/OOSD/hamadkhan/hw1$ git commit -m "HW1"
+[master d4837b5] HW1
+ 4 files changed, 83 insertions(+)
+ create mode 100755 hw1/Driver.java
+ mode change 100644 => 100755 hw1/README.md
+ create mode 100755 hw1/Snack.java
+ create mode 100755 hw1/VendingMachine.java
+khan@k:/mnt/c/OOSD/hamadkhan/hw1$ git push
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 1.13 KiB | 41.00 KiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0)
+To git.cs.slu.edu:courses/spring20/csci_2300/hamadkhan.git
+   7968825..d4837b5  master -> master
+

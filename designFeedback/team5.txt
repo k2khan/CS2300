@@ -1,0 +1,5 @@
+1./ I liked the GUI, and the introduction to the game. Showed the class diagram.
+
+2./ As stated, I liked the design, especially because it could be extended for more players.
+
+3./ Demonstrated the use cases.
